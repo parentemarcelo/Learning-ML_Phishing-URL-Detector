@@ -1,3 +1,10 @@
+# Temporary files
+.files/data_for_training.csv
+.files/data_for_testing.csv
+.files/testing_features_cleaned.csv
+.files/training_features_cleaned.csv
+.files/verified_online.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
