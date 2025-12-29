@@ -27,6 +27,6 @@ In my case I'm both running and testing from my machine (thus the loopback IP), 
 
 ![Terminal test](screenshots/terminal_test.png)
 
-[Browser test](screenshots/browser_test.png)
+![Browser test](screenshots/browser_test.png)
 
 </p>
