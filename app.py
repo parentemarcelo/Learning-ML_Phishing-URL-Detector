@@ -179,7 +179,8 @@ def classify():
         return jsonify({"error": "URL parameter is missing"}), 400
     
     result = classify_url(url)
-    return jsonify({"url": url, "classification": result})
+    return jsonify({"classification": result})
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5001) # Change port if needed
+    app.run(debug=False, port=8080) # Change port if needed
+
